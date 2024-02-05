@@ -1,0 +1,14 @@
+# Ignore Settings file
+settings.ini
+
+# Ignore Regular Expression List
+suslist.py
+
+# Also ignore the insult list
+insults
+
+# Ignore log file
+badword.log
+
+# Ignore Database -- Not needed for public
+leaderboard.db
